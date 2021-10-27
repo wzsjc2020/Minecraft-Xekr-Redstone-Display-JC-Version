@@ -4,8 +4,6 @@ expansion(需要地毯插件)
 XeKr 红石显示1.17-V2附加包		//显示漏斗，发射器等红石原件锁定状态
 
 后者无版权，仅供个人WZSJC个人使用
-https://xekr.lanzoui.com/b01bn74zc
-密码:d6dn
 
 添加或修改的方块如下
 #redstone
