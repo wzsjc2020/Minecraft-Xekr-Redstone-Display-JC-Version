@@ -1,0 +1,54 @@
+XeKr+redstone+display1.17-V2
+Xekr Redstone Display 1.17-V2-JC 修改版
+expansion(需要地毯插件)		
+XeKr 红石显示1.17-V2附加包		//显示漏斗，发射器等红石原件锁定状态
+
+后者无版权，仅供个人WZSJC个人使用
+https://xekr.lanzoui.com/b01bn74zc
+密码:d6dn
+
+添加或修改的方块如下
+#redstone
+daylight_detector
+dispensor
+dropper
+cauldron		//1.17 V1 kekr
+leaves
+lever_on/lever_off
+hopper
+observer
+piston
+redstonedustee
+pressure_plate
+scaffolding		//1.17 V1 xekr
+sulk_sensor
+repeater		//old version 1.5
+target
+tripwine
+iron_door		//old version 1.5
+comparator		//edit by wzsjc2021
+button
+
+#other
+bee_hive		//did not add bee_nest
+furance
+fire
+note_block
+smoker
+blast_furance
+debug_stick		//edit by wzsjc2021
+infested_deepslate_block//edit by wzsjc2021
+other infested_block	//old version 1.5
+powder_snow 		//edit by wzsjc2021
+
+#effect
+fire
+fall leaves		//1.17 V2 xekr may have bugs
+
+last edit 2021年10月27日，加拿大，埃德蒙顿
+
+
+
+
+
+
